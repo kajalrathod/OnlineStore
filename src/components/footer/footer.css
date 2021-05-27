@@ -1,0 +1,29 @@
+footer {
+  /* position: absolute; */
+  bottom: 0;
+  height: 2.5rem;
+}
+footer.footer {
+  text-align: center;
+  margin-top: 100px;
+  border-top: 1px solid #e5e5e5;
+}
+
+.ui.footer.segment {
+  margin: 5em 0em 0em;
+  padding: 5em 0em;
+}
+.RightContainerFooter {
+  display: inline-block;
+  text-align: left;
+}
+.RightContainerFooter > .item {
+  padding-bottom: 10px;
+}
+
+.LeftPaddingText {
+  padding-left: 10px;
+}
+footer a {
+  color: white;
+}

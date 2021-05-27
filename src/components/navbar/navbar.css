@@ -1,0 +1,22 @@
+.GridHeader {
+  margin: 1rem 0 0.75rem;
+  padding: 0 1.14285714rem;
+  color: rgba(0, 0, 0, 0.85);
+  font-size: 0.78571429em;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.ui.segment {
+  position: absolute;
+  z-index: 10;
+  margin-top: -23px;
+  border: none;
+}
+
+.pushable {
+  overflow-x: unset;
+}
+.ui.vertical.icon.menu {
+  width: 120px;
+}
